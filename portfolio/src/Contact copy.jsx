@@ -6,7 +6,7 @@ function Contact() {
       </h2>
 
       <p className="text-xl text-gray-300">
-        vandana@example.com
+        Thanmayi@example.com
       </p>
 
       <button className="mt-8 px-8 py-3 bg-green-500 rounded-xl hover:bg-green-600">
